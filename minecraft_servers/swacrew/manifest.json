@@ -1,0 +1,62 @@
+{
+  "server_name": "swacrew",
+  "nice_name": "Swacrew.net",
+  "direct_ip": "swacrew.net",
+  "server_wildcards": [
+    "%.swacrew.net",
+    "%.swacrew.de"
+  ],
+  "social": {
+    "web": "https://swacrew.net",
+    "web_shop": "https://shop.swacrew.net",
+    "web_support": "",
+    "twitter": "https://twitter.com/swacrewnet",
+    "tiktok": "https://www.tiktok.com/@swacrew?lang=en",
+    "youtube": "https://www.youtube.com/SwacrewNET",
+    "discord": "https://discord.swacrew.net/",
+    "teamspeak": "swacrew.net"
+  },
+  "gamemodes": {
+    "bedwars": {
+      "name": "BedWars",
+      "command": "/gametp bedwars"
+    },
+    "skywars": {
+      "name": "SkyWars",
+      "command": "/gametp skywars"
+    },
+    "minelife": {
+      "name": "MineLife",
+      "command": "/gametp minelife",
+      "versions": "1.19.2<*"
+    },
+    "community": {
+      "name": "Community",
+      "command": "/gametp community"
+    },
+    "lasertag": {
+      "name": "LaserTag",
+      "command": "/gametp lasertag"
+    },
+    "training": {
+      "name": "Training",
+      "command": "/gametp training"
+    },
+    "swacrewgames": {
+      "name": "SwacrewGames",
+      "command": "/gametp swacrewgames"
+    },
+    "buildffa": {
+      "name": "BuildFFA",
+      "command": "/gametp buildffa"
+    },
+    "target": {
+      "name": "Target",
+      "command": "/gametp target"
+    }
+  },
+  "discord": {
+    "server_id": 746838764914999431,
+    "rename_to_minecraft_name": true
+  }
+}
